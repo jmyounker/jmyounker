@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jmyounker
+👋 Hi, I’m @jmyounker
 
-- 👀 I’m interested in ...
+👀 I’m interested in ...
 
 * Programming Languages
 * Mathematics
@@ -14,14 +14,14 @@
 * Cooking
 * Plants
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
 * The Guts of UMT (unitedmasters.com)
 * Humans
 * Orgnaization
 * Cooking
 
-- 📫 How to reach me ...
+📫 How to reach me ...
 
 jeff at drinktomi dot com
 
