@@ -18,7 +18,7 @@
 
 * The Guts of UMT (unitedmasters.com)
 * Humans
-* Orgnaization
+* Organization
 * Cooking
 
 📫 How to reach me ...
